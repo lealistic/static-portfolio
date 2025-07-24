@@ -24,7 +24,6 @@
   gap: 10px 20px;
   background-color: #131516;
   color: white;
-  border: 1px solid #000000;
   border-radius: 4px;
   padding: 20px;
   position: relative;
@@ -43,7 +42,7 @@
   width: 5px;
   background: linear-gradient(#72cdfe, #012e82);
   position: absolute;
-  left: -26px;
+  left: -25px;
 }
 .exp-position {
   font-family: "Poppins", Arial, Helvetica, sans-serif;
