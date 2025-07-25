@@ -36,8 +36,8 @@
     font-size: 1.5rem;
   }
   .contact-list li {
-    max-height: 2.5rem;
-    max-width: 2.5rem;
+    max-height: 40px;
+    max-width: 40px;
   }
   .copy {
     font-size: 0.875rem;

@@ -6,7 +6,7 @@
 }
 .exp-content {
   display: grid;
-  gap: 60px;
+  gap: 30px;
 }
 .exp-about {
   font-size: 1.2rem;
@@ -89,7 +89,7 @@
   padding: 10px 15px;
   gap: 10px;
   align-items: center;
-  justify-self: start;
+  justify-content: center;
   border-radius: 4px;
   color: #ffffff;
   font-size: 1rem;
@@ -148,8 +148,5 @@
 @media (max-width: 400px) {
   .exp-about {
     font-size: 1rem;
-  }
-  .exp-content {
-    gap: 30px;
   }
 }
