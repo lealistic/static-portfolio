@@ -33,6 +33,8 @@ Projeto desenvolvido durante o curso da Origamid e projetado no Figma, com o obj
 
 ✔ Divisão em múltiplos arquivos CSS utilizando `@import`;
 
+✔ Uso do cleancss para a otimização do arquivo final `style.min.css`;
+
 ✔ Layouts com Grid e Flexbox para alinhamento responsivo;
 
 ✔ Media Queries para adaptação a diferentes telas;
