@@ -27,21 +27,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante o curso da Origamid e projetado no Figma, com o objetivo de criar um portfólio estático responsivo para exibição de futuros projetos. Esse projeto aplica:
+Desenvolvi este portfólio durante o curso da Origamid, com design original criado no Figma, para servir como base profissional responsiva. O projeto incorpora técnicas avançadas de front-end e boas práticas de UI/UX:
 
-✔ HTML Semântico para melhor estruturação;
+✔ **HTML Semântico** tags descritivas para melhor SEO e acessibilidade;
 
-✔ Divisão em múltiplos arquivos CSS utilizando `@import`;
+✔ **Arquitetura CSS modularizada** usando `@import` para manutenção simplificada;
 
-✔ Uso do cleancss para a otimização do arquivo final `style.min.css`;
+✔ Build otimizado com **Clean CSS** gerando `style.min.css` para performance;
 
-✔ Layouts com Grid e Flexbox para alinhamento responsivo;
+✔ **CSS Grid e Flexbox** para alinhamento preciso e adaptabilidade;
 
-✔ Media Queries para adaptação a diferentes telas;
+✔ **Media Queries** para ajustes de layout e imagens em diferentes tamanhos de tela;
 
-✔ Acessibilidade com atributos como aria-labelledby para leitores de tela.
+✔ **Acessibilidade** reforçada com atributos como `aria-labelledby` para melhor experiência em leitores de tela.
 
-✔ Conceitos de UI Design como Tipografia, Espaçamento, Formas e Cores.
+✔ **Conceitos de UI Design** como Tipografia, Espaçamento, Formas e Cores.
 
 🔗 [Acesse o projeto finalizado, online](https://lealistic.github.io/static-portfolio/)
 
