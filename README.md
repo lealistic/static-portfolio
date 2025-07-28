@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvi este portfólio durante o curso da Origamid, com design original criado no Figma, para servir como base profissional responsiva. O projeto incorpora técnicas avançadas de front-end e boas práticas de UI/UX:
+Desenvolvi este portfólio durante o curso da Origamid, com design original criado no **Figma**, para servir como base profissional responsiva. O projeto incorpora técnicas avançadas de front-end e boas práticas de **UI/UX**:
 
 ✔ **HTML Semântico** tags descritivas para melhor SEO e acessibilidade;
 
